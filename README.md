@@ -1,0 +1,2 @@
+# fromClass
+angular-webpack configurations
