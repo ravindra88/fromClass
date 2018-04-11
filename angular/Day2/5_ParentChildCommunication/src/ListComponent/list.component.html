@@ -1,0 +1,23 @@
+<h3>List Component</h3>
+
+<h4>Selected Person: {{selectedPerson}}</h4>
+
+<ul>
+    <li *ngFor="let person of personList">
+        <a href="http://www.google.com" (click)=doClick($event,person)>{{person}}</a>
+    </li>
+</ul>
+
+<!-- <ul>
+    <li *ngFor="let person of personList">
+        <a href="#">{{person}}</a>
+    </li>
+</ul> -->
+
+<!-- <ul>
+    <ng-template ngFor let-person [ngForOf]=personList>
+        <li>
+            <a href="#">{{person}}</a>
+        </li>
+    </ng-template>
+</ul> -->

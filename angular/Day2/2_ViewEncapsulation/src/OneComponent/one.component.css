@@ -1,0 +1,11 @@
+.card1{
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+
+.same{
+    border-style: dashed;
+    border-width: 2px;
+    border-color: red;
+}

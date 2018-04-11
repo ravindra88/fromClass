@@ -1,0 +1,21 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "Just a simple demo",
+  "private": true,
+  "main": "10_Inheritance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Synechron",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "^5.2.4",
+    "jquery": "^3.3.1",
+    "systemjs": "^0.21.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.0"
+  }
+}

@@ -1,0 +1,11 @@
+.card2{
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+}
+
+.same{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: blue;
+}
